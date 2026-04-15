@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     %% ── Inputs ──
     VZ["Noisy Video Latent\n[B, T_v, 128]"]
@@ -115,3 +116,4 @@ flowchart TD
     style FSCO fill:#e67e22,color:#fff
     style GLOSS fill:#c0392b,color:#fff
     style CLOSS fill:#c0392b,color:#fff
+```
